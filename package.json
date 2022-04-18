@@ -1,0 +1,13 @@
+{
+  "name": "movies-mock-api",
+  "version": "1.0.0",
+  "description": "simple movies mock api for the frontend tech assignment",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
